@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271924935938",
+    "firebase_url": "https://ageless-granite-269212.firebaseio.com",
+    "project_id": "ageless-granite-269212",
+    "storage_bucket": "ageless-granite-269212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271924935938:android:9b68c1fc80e3bc935d161b",
+        "android_client_info": {
+          "package_name": "fr.sberruer.android_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271924935938-6j36usrlogacnrqsu7lv6a5k094nsago.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_jQu9n95d_U5xOC-Tp1F24EJc9QU7Ois"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271924935938-6j36usrlogacnrqsu7lv6a5k094nsago.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
